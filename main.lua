@@ -3,8 +3,8 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "Uttd script hacks 2092",
    Icon = 77392032855648,
-   LoadingTitle = "Rayfield Interface Suite",
-   LoadingSubtitle = "by Sirius",
+   LoadingTitle = "FREE OP UTTD HACKS ",
+   LoadingSubtitle = "by ME",
    Theme = "Ocean",
    ToggleUIKeybind = "K",
    DisableRayfieldPrompts = false,
@@ -16,7 +16,7 @@ local Window = Rayfield:CreateWindow({
    },
    Discord = {
       Enabled = true,
-      Invite = "sA2zedUyqn",
+      Invite = "https://discord.gg/sA2zedUyqn",
       RememberJoins = true
    },
    KeySystem = false
